@@ -1,0 +1,1 @@
+@ start "" "C:\!MOE\VeraCrypt\VeraCrypt-x64.exe" /v C:\!MOE\krypto /l K /q /hash sha512

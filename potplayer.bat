@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\PotPlayerPortable\PotPlayerPortable.exe"

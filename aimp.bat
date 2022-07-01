@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\AIMP\AIMP\AIMP.exe"

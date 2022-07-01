@@ -1,0 +1,1 @@
+@ start "" "K:\Telegram\Telegram.exe"

@@ -1,0 +1,1 @@
+@ start "" "K:\FirefoxPortable\FirefoxPortable.exe"

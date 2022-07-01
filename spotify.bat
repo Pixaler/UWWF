@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\Spotify\Spotify.exe"

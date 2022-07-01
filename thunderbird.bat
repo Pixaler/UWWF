@@ -1,0 +1,1 @@
+@ start "" "K:\ThunderbirdPortable\ThunderbirdPortable.exe"

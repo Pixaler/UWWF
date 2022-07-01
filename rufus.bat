@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\Rufus\rufus.exe"

@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\Psiphon\PsiphonPortable.exe" .\
