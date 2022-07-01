@@ -9,6 +9,7 @@ Put scipts in folder into Path environment folder
 # Using
 
 Open cmd and type name of command
+
 Personaly I use it in Far
 
 # Descrition
