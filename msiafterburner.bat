@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\MSI Afterburner\MSIAfterburner.exe"
