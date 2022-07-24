@@ -1,1 +1,0 @@
-@ start "" "C:\!APPS\TigerTrade\TigerTrade.exe" .\
