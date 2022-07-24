@@ -1,1 +1,1 @@
-powershell -command .\bluetooth.ps1 -BluetoothStatus Off
+powershell -command C:\BATCH\bluetooth.ps1 -BluetoothStatus Off
