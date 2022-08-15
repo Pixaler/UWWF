@@ -1,1 +1,0 @@
-@ start "" "C:\PortableApps\7-ZipPortable\7-ZipPortable.exe" .\
