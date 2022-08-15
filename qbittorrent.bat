@@ -1,1 +1,0 @@
-@ start "" "C:\PortableApps\qBittorrentPortable\qBittorrentPortable.exe"
