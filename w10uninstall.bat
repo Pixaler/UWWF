@@ -1,0 +1,1 @@
+start "" "./w10uninstall.url"
