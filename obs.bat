@@ -1,0 +1,1 @@
+@ start "" "C:\Users\Pixaler\Desktop\OBS_Studio" 

@@ -1,1 +1,1 @@
-@ start "" "C:\PortableApps\SumatraPDFPortable\SumatraPDFPortable.exe"
+@ start "" "C:\PortableApps\SumatraPDF\SumatraPDF.exe"

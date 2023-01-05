@@ -1,1 +1,1 @@
-start "" "./cpuninstall.url"
+start "" ""C:\BATCH\cpuninstall.lnk""

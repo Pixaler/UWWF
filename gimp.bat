@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\GIMPPortable\GIMPPortable.exe"

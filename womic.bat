@@ -1,0 +1,1 @@
+@ start "" "C:\!APPS\WOMic\WOMicClient.exe"

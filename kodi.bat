@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\Kodi\kodi.exe" -p

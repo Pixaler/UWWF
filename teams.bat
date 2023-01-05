@@ -1,0 +1,1 @@
+@ start "" "C:\Users\Pixaler\AppData\Local\Microsoft\Teams\current\Teams.exe"

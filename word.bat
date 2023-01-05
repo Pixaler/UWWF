@@ -1,1 +1,1 @@
-@ start "" "C:\PortableApps\OfficePortable\Word.exe"
+@ start "" "C:\PortableApps\LibreOfficePortable\LibreOfficeWriterPortable.exe"

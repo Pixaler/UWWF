@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\TeamViewerPortable\TeamViewerPortable.exe"

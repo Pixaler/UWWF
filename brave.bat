@@ -1,0 +1,1 @@
+@ start "" "K:\BravePortable\brave-portable.exe"

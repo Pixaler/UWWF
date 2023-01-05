@@ -1,1 +1,1 @@
-start "" "./w10uninstall.url"
+start "" "C:\BATCH\w10uninstall.url"

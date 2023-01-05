@@ -1,3 +1,7 @@
+# v1.3
+## Changes
+1. Update programs shortcuts
+
 # v1.2
 ## Changes
 1. Add 7zip cli

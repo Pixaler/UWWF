@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\HWiNFO\HWiNFO64.exe"

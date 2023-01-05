@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\WinCDEmuPortable\WinCDEmuPortable.exe"

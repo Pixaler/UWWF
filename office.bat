@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\LibreOfficePortable\LibreOfficePortable.exe" 

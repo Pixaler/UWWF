@@ -1,0 +1,1 @@
+@ start "" "C:\PortableApps\WizTree\WizTree64.exe"

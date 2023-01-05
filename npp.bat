@@ -1,1 +1,1 @@
-@ start "" "C:\PortableApps\npp\notepad++.exe"
+@ start "" "C:\PortableApps\Notepad++Portable\Notepad++Portable.exe"

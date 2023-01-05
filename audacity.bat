@@ -1,1 +1,0 @@
-@ start "" "C:\PortableApps\Audacity\Audacity.exe"

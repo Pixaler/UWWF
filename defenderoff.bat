@@ -1,1 +1,2 @@
-powershell -command C:\BATCH\defenderoff.ps1
+@echo off
+PowerShell Set-MpPreference -DisableRealtimeMonitoring 1
