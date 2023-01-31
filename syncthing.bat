@@ -1,1 +1,1 @@
-@ start "" "C:\PortableApps\Syncthing\syncthing.exe"
+@ start "" "C:\PortableApps\SyncTrayzor\SyncTrayzor.exe"

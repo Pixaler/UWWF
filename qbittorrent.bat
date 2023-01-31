@@ -1,1 +1,1 @@
-@ start "" "C:\PortableApps\qbittorrent-portable\qbittorrent-portable.exe" 
+@ start "" "C:\PortableApps\qBittorrentPortable\qBittorrentPortable.exe"

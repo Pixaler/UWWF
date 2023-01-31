@@ -1,3 +1,8 @@
+# v1.4
+## Changes
+1. Add -force flags to close all windows and process
+2. Update programs shortcuts
+
 # v1.3
 ## Changes
 1. Update programs shortcuts

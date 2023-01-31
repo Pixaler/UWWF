@@ -1,1 +1,0 @@
-@ start "" "C:\PortableApps\Obsidian\Obsidian.exe"
